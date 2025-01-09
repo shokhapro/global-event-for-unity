@@ -1,4 +1,4 @@
-An easy event-calling engine for Unity.<br>
+<b>An easy event-calling engine for Unity.</b><br>
 
 It makes it super easy to call global events in the game and invoke desired actions — right in the Unity Editor!<br>
 The highly customizable component "Global Event" allows you to invoke any actions you want whenever you want.<be>
