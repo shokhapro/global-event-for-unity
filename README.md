@@ -4,6 +4,6 @@ It makes it super easy to call global events in the game and invoke desired acti
 The highly customizable component "Global Event" allows you to invoke any actions you want whenever you want.
 
 <br>
-![image](https://github.com/user-attachments/assets/245c5093-f6af-4fa6-9926-c1a53da93eef)
 
+![image](https://github.com/user-attachments/assets/04e0610b-782f-45fa-be1e-0baca84fb32c)
 
